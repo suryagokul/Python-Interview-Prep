@@ -1,0 +1,19 @@
+# Testing
+
+Testing is the process of executing a program with the aim of finding errors. To make our software perform well it should be error-free. If testing is done successfully it will remove all the errors from the software.
+
+1. **UnitTesting**
+
+2. **Integrated Testing**
+
+3. **Alpha Testing**
+
+4. **Beta Testing**
+
+`The process of testing whether a particular unit in the sense block of code is working properly or not is called Unit Testing.`
+
+`The process of testing entire application (end to end testing) is called Integrated Testing.`
+
+`Process where testing is performed internally within the organization is called as Alpha Testing.`
+
+`The test is conducted at one or more customer sites by the end-user of the software. This version is released for a limited number of users for testing in a real-time environment is known as Beta Test.`
